@@ -110,6 +110,22 @@ section {
     font-size: 16px;
 }
 
+/* homepage hero */
+.hero {
+    margin:20px;
+    background-color: white;
+    font-size: 20px;
+    color: blue;
+}
+
+/* secondary page hero */
+.hero-secondary {
+    margin: 20 px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+}
+
 /* HERO STYLES END */
 .intro {
     text-align: center;

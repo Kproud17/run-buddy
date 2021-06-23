@@ -64,6 +64,7 @@ footer div {
 footer a {
     color: #024e76;
 }
+/* HERO STYLES START */
 
 /* Hero Style Start */
 .hero {
@@ -75,8 +76,7 @@ footer a {
     flex-wrap: wrap;
 
   }
-  /* Hero Style End */
-
+ /* Hero Style End */
   .hero-form {
     border: 3px solid #024e76;  
     background-color: #fce138;
@@ -119,15 +119,10 @@ footer a {
       line-height: 1.3;
   }
 
-  .hero-cta {
-      font-style: italic;
-      font-size: 55px;
-      color: #fce138;
-  }
   .hero-cta h2 {
       font-style: italic;
       font-size: 55px;
-      color: #fc3138
+      color: #fce138
   }
   
 section {
@@ -159,6 +154,7 @@ section {
 }
 
 /* HERO STYLES END */
+
 
 .intro p {
     line-height: 1.7;
@@ -194,6 +190,7 @@ section {
     border-color: #39a6b2;
 }
 
+/* STEP STYLES START */
 .step {
     margin: 50px auto;
     padding-bottom: 50px;
@@ -241,6 +238,11 @@ section {
     line-height: 1.5;
     color: #024e76;
 }
+
+/* STEP STYLES END */
+
+
+/* TRAINER STYLES START */
 
 .trainer {
 
@@ -291,6 +293,12 @@ section {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+/* TRAINER STYLES END */
+
+
+
+/* REACH OUT STYLES START */
 
 .contact {
     background: #024e76;
